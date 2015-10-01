@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 **FEND P6 Feed Reader Testing**
 
 This project required writing unit tests for an existing feed reader app. Tests were written to test the following functions:
@@ -14,4 +12,4 @@ This project required writing unit tests for an existing feed reader app. Tests 
 **Steps to run**
 
 View the [project](http://talongi.github.io/FEND-project-6-unit-testing/) on github pages.
->>>>>>> master
+
